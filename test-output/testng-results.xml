@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29026" started-at="2018-10-14T11:33:09Z" finished-at="2018-10-14T11:33:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29026" started-at="2018-10-14T11:33:09Z" finished-at="2018-10-14T11:33:38Z">
+      <class name="Test.Test">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Test.Test@53b32d7]" name="setup" is-config="true" duration-ms="11856" started-at="2018-10-14T11:33:09Z" finished-at="2018-10-14T11:33:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test_Home_Page_Appear_Correct()[pri:0, instance:Test.Test@53b32d7]" name="test_Home_Page_Appear_Correct" duration-ms="5032" started-at="2018-10-14T11:33:21Z" finished-at="2018-10-14T11:33:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Home_Page_Appear_Correct -->
+        <test-method status="PASS" signature="customer()[pri:1, instance:Test.Test@53b32d7]" name="customer" duration-ms="12113" started-at="2018-10-14T11:33:26Z" finished-at="2018-10-14T11:33:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customer -->
+      </class> <!-- Test.Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
